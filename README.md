@@ -1,4 +1,4 @@
-# ⚡ Humanox AI Sport Analytics
+#  Humanox AI Sport Analytics
 
 **Plataforma de analítica deportiva e IA aplicada al rendimiento y prevención
 de lesiones**, a partir de datos biométricos simulados de sensores
@@ -9,7 +9,7 @@ ni APIs externas: 100% ejecutable en local y gratuito.
 
 ---
 
-## 📌 Descripción
+##  Descripción
 
 Humanox AI Sport Analytics simula un sistema real de monitoreo deportivo:
 
@@ -32,7 +32,7 @@ están construidos como lo haría un equipo de ingeniería real.
 
 ---
 
-## 🧰 Tecnologías
+##  Tecnologías
 
 | Categoría          | Tecnología          |
 |--------------------|---------------------|
@@ -50,7 +50,7 @@ basada en umbrales deportivos razonables, documentada en
 
 ---
 
-## 📂 Arquitectura del proyecto
+##  Arquitectura del proyecto
 
 ```
 humanox-ai/
@@ -89,7 +89,7 @@ Cada archivo tiene una única responsabilidad:
 
 ---
 
-## 🚀 Instalación
+## Instalación
 
 Requisitos previos: tener Python 3.10 o superior instalado.
 
@@ -142,7 +142,7 @@ No necesitas ejecutar ningún script adicional: todo ocurre al vuelo.
 
 ---
 
-## 🧠 Explicación técnica
+##  Explicación técnica
 
 ### Modelo de datos
 
@@ -183,7 +183,7 @@ general del equipo (Óptimo / Con precaución / Crítico).
 
 ---
 
-## ✅ Validación realizada
+##  Validación realizada
 
 Antes de la entrega, este proyecto fue probado de extremo a extremo:
 
@@ -198,7 +198,7 @@ Antes de la entrega, este proyecto fue probado de extremo a extremo:
 
 ---
 
-## 🔮 Posibles mejoras futuras
+##  Posibles mejoras futuras
 
 - Conexión real con hardware de sensores vía MQTT o WebSocket.
 - Autenticación de usuarios (cuerpo técnico, jugadores, directivos).
@@ -212,7 +212,7 @@ Antes de la entrega, este proyecto fue probado de extremo a extremo:
 
 ---
 
-## 📄 Licencia y alcance
+##  Licencia y alcance
 
 Proyecto desarrollado con fines demostrativos (MVP). Todos los datos
 de jugadores son **completamente ficticios** y generados

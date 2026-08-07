@@ -139,6 +139,8 @@ No necesitas ejecutar ningún script adicional: todo ocurre al vuelo.
   severidad, con detalle tabular exportable.
 - **Panel Ejecutivo**: jugadores de mayor riesgo, más constantes, y
   rankings de velocidad, fuerza y fatiga de todo el equipo.
+  <img width="1902" height="876" alt="image" src="https://github.com/user-attachments/assets/563daf5c-4fe0-42df-bef8-961e870150ff" />
+
 
 ---
 
